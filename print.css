@@ -5,8 +5,8 @@ img {
 ul {
   display:none;}
 #sidebar {
- display:none;}
-#center{font-size:1.25em;
-font-color:black;
-background-color:white;}
-
+  display:none;}
+#center{
+  font-size:1.25em;
+  font-color:black;
+  background-color:white;}
