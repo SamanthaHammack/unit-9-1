@@ -1,0 +1,12 @@
+@media print {
+}
+img {
+  display:none;}
+ul {
+  display:none;}
+#sidebar {
+ display:none;}
+#center{font-size:1.25em;
+font-color:black;
+background-color:white;}
+
